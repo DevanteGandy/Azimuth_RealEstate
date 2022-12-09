@@ -8,7 +8,7 @@ const Navbar = () => (
 <Flex p="2" borderBottom="1px" borderColor="gray.100">
 
     <Box fontSize="3xl" color="black" fontWeight="bold">
-    <Link href='/' paddingLeft='2' >Azimuth Group</Link>
+    <Link href='/' paddingleft='2' >Azimuth Group</Link>
     </Box>
     <Spacer />
 
